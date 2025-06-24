@@ -1,32 +1,54 @@
+# 🛍️ ShoppyGlobe
 
-# 🛍️ ShoppyGlobe - E-Commerce Website
+ShoppyGlobe is a full-stack e-commerce web application built using **React** for the frontend and **Node.js + Express + MongoDB** for the backend. It includes user authentication, product browsing, cart management, and secure checkout functionality.
 
-Welcome to **ShoppyGlobe**, a modern and responsive e-commerce website built using **React.js**! This project showcases a complete shopping experience, including product listings, product details, search functionality, and a shopping cart with Redux.
+---
 
-## 🚀 Features
+## 🚀 Tech Stack
 
-- 🛒 Add to Cart functionality with Redux
-- 🔍 Product search using a search bar
-- 📦 Product detail page with reviews
-- 🖼️ Responsive UI using Tailwind CSS
-- 🔄 Data fetched from a live API
-- 🧩 Routing with React Router
+### Frontend:
+- React
+- Redux Toolkit
+- React Router
+- Tailwind CSS / CSS Modules
+- Axios
 
-## 🧑‍💻 Technologies Used
+### Backend:
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
+- JWT (Authentication)
+- bcrypt (Password hashing)
+- dotenv (Environment configs)
 
-- **React.js** ⚛️
-- **Redux Toolkit** for state management
-- **React Router DOM** for routing
-- **Tailwind CSS** for styling
-- **DummyJSON API** for product data
+---
 
-## 📸 Screenshots
+## 🌐 Features
 
-![image](https://github.com/user-attachments/assets/60313af3-5563-4332-88af-45fba3406dd6)
+- 🔐 **User Authentication**
+  - Sign Up / Login with JWT
+  - Protected routes and local storage session
 
-![image](https://github.com/user-attachments/assets/bd21fdef-d191-4c37-bcfa-d02245b87eac)
+- 🛒 **Product Listing**
+  - Fetch products from backend
+  - Dynamic UI with filter/search capabilities
 
-![image](https://github.com/user-attachments/assets/a8c8046a-e6fa-47e2-a280-9dac4bc78ce2)
-=======
-# E-commerce-with-backend
+- 🧺 **Shopping Cart**
+  - Add/remove products
+  - Quantity control
+  - Local cart state synced with backend
+
+- 🧑‍💼 **Admin (Coming soon)**
+  - Add/Edit/Delete products
+  - View user orders
+
+---
+![image](https://github.com/user-attachments/assets/ce1f3e2e-8c7e-494e-a6c9-a3f5ca178fec)
+![image](https://github.com/user-attachments/assets/8ccc763d-64c4-4b96-b8c7-ec1f28452555)
+![image](https://github.com/user-attachments/assets/9f5edebc-ded4-4500-8c86-56193cf3f33b)
+
+
+
+
+
 
