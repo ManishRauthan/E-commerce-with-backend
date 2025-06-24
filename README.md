@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛍️ ShoppyGlobe - E-Commerce Website
 
 Welcome to **ShoppyGlobe**, a modern and responsive e-commerce website built using **React.js**! This project showcases a complete shopping experience, including product listings, product details, search functionality, and a shopping cart with Redux.
@@ -29,4 +29,4 @@ Welcome to **ShoppyGlobe**, a modern and responsive e-commerce website built usi
 ![image](https://github.com/user-attachments/assets/a8c8046a-e6fa-47e2-a280-9dac4bc78ce2)
 =======
 # E-commerce-with-backend
->>>>>>> 0e3c0341390d67670e8f2049922d76a8c68f4d7d
+
